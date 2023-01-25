@@ -1,4 +1,4 @@
-# SovAlerts
+# Checly Alerts
 
 ## Installation
 1. Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your machine. You can check if they are installed by running the following commands in your terminal:
