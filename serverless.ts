@@ -3,7 +3,7 @@ import type { AWS } from '@serverless/typescript';
 import forwardAlert from 'src/functions/forwardAlert';
 
 const serverlessConfiguration: AWS = {
-  service: 'sovalerts',
+  service: 'xxx',
   frameworkVersion: '3',
   useDotenv: true,
   plugins: ['serverless-offline', 'serverless-esbuild'],
